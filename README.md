@@ -14,7 +14,7 @@ We propose an AI-based information extraction system that efficiently analyzes l
 ## Software tools used:
 * Microsoft Visual code
 * Python 3.12.2
-* Google Gemini API key (OPEN-Source) ot OPENAI API Key(Paid) 
+* Google Gemini API key (OPEN-Source)
 
 ## Create a new virtual environment
 python -m venv myenv

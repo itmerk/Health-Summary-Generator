@@ -45,3 +45,12 @@ To set the environment variable permanently (so it persists across sessions), yo
 ```bash
   pip install -r requirements.txt
 ```
+
+## Input source file link
+
+https://drive.google.com/file/d/1Pe3tLE9jFa4L85YkmjJcIsQyVUtPySM6/view?usp=sharing
+
+## Required Output Format Doc
+
+https://docs.google.com/document/d/1W_56g1UHckHojS-NObxnGJU06IyReqhaxSTVlvDWKc4/edit?usp=sharing
+

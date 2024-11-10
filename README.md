@@ -54,3 +54,6 @@ https://drive.google.com/file/d/1Pe3tLE9jFa4L85YkmjJcIsQyVUtPySM6/view?usp=shari
 
 https://docs.google.com/document/d/1W_56g1UHckHojS-NObxnGJU06IyReqhaxSTVlvDWKc4/edit?usp=sharing
 
+## Run the main file using below command
+
+streamlit run main.py
